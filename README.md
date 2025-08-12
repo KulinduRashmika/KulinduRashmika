@@ -1,5 +1,5 @@
-## Hi there 👋
-<h2 align="left">Hi 👋! My name is Kulindu Rashmika and I'm from Sri Lanka</h2>
+
+<h2 align="left">Hi 👋! I'm Kulindu Rashmika</h2>
 
 ###
 
