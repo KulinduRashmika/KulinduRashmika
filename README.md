@@ -8,7 +8,7 @@
 ---
 
 ## 👨‍💻 About Me  
-🎓 Passionate tech learner exploring **Web Development, IoT, Robotics, Mobile Apps & AI**  
+🎓 Passionate tech learner exploring **Web Development, WordPress Development, IoT, Robotics, Mobile Apps & AI** 
 💡 Loves building **ESP8266 projects, automation systems, and smart solutions**  
 🚀 Always learning and improving  
 🤝 Open to collaborating on exciting projects
