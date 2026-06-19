@@ -13,9 +13,9 @@
 <tr border="none">
 <td width="50%" align="left">
 
-- 🔭 I’m currently working on **LifeLink App project**
+- 🔭 I’m currently working on **----**
 
-- 🌱 I’m currently learning **Flutter**
+- 🌱 I’m currently learning **MERN Stacks**
 
 - 💬 Ask me about **Java**
 
